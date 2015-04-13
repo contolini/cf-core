@@ -1,5 +1,20 @@
 {
+  "name": "cf-core",
+  "version": "0.1.0",
+  "description": "[![Dependency Status](https://gemnasium.com/cfpb/cf-core.svg)](https://gemnasium.com/cfpb/cf-core)",
   "main": "src/cf-core.less",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contolini/cf-core.git"
+  },
+  "author": "",
+  "license": "CC0",
   "devDependencies": {
     "cf-component-demo": "git://github.com/cfpb/cf-component-demo.git#0.9.1",
     "cf-grunt-config": "~0.3.1",
@@ -9,5 +24,13 @@
     "load-grunt-tasks": "~2.0.0",
     "node.extend": "~1.0.10",
     "time-grunt": "~1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/contolini/cf-core/issues"
+  },
+  "homepage": "https://github.com/contolini/cf-core",
+  "dependencies": {
+    "normalize": "^0.3.1",
+    "normalize-legacy-addon": "git://github.com/contolini/normalize-legacy-addon.git"
   }
 }
