@@ -1,4 +1,5 @@
 {
+  "main": "src/cf-core.less",
   "devDependencies": {
     "cf-component-demo": "git://github.com/cfpb/cf-component-demo.git#0.9.1",
     "cf-grunt-config": "~0.3.1",
