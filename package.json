@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/contolini/cf-core",
   "dependencies": {
-    "normalize": "^0.3.1",
+    "normalize-css": "^2.3.1",
     "normalize-legacy-addon": "git://github.com/contolini/normalize-legacy-addon.git"
   }
 }
